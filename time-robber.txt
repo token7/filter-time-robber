@@ -1,1 +1,7 @@
+! Title: time robber site filter
+! Expires: 4 days
+! Homepage: https://github.com/token7/filter-time-robber
+! Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+! Version: 20210109
+
 moudamepo.com
